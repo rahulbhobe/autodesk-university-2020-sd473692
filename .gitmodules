@@ -1,0 +1,15 @@
+[submodule "05-grid-object-placement/design.automation-csharp-revit.grid.object.placement"]
+	path = 05-grid-object-placement/design.automation-csharp-revit.grid.object.placement
+	url = https://github.com/ogaryu/design.automation-csharp-revit.grid.object.placement
+[submodule "01-delete-walls/forge-countdeletewalls-revit"]
+	path = 01-delete-walls/forge-countdeletewalls-revit
+	url = https://github.com/Autodesk-Forge/forge-countdeletewalls-revit
+[submodule "02-count-it/forge-countdeletewalls-revit"]
+	path = 02-count-it/forge-countdeletewalls-revit
+	url = https://github.com/Autodesk-Forge/forge-countdeletewalls-revit
+[submodule "03-sketch-it/forge-sketchit-revit"]
+	path = 03-sketch-it/forge-sketchit-revit
+	url = https://github.com/Autodesk-Forge/forge-sketchit-revit
+[submodule "04-stadium-panels/design.automation-csharp-revit.stadium.panels"]
+	path = 04-stadium-panels/design.automation-csharp-revit.stadium.panels
+	url = https://github.com/rahulbhobe/design.automation-csharp-revit.stadium.panels.git
